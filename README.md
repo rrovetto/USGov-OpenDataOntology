@@ -1,7 +1,7 @@
 # The U.S. Government Open Data Ontology
 
 ### Scope
-The scope of the U.S. Government Open Data activities, specifically as described at data.gov. The content of the [User Guide](https://data.gov/user-guide/) is relevant. The scope is subject to revision.
+The scope of the U.S. Government Open Data activities, specifically as described at [this official website](https://data.gov). The content of the [User Guide](https://data.gov/user-guide/) is relevant. The scope is subject to revision.
 
 ### Purpose
 * To support the U.S. Government Open Data activities, by developing an ontology and determining if it can help with data access and management in those activities
@@ -30,8 +30,10 @@ You can help by offerring financial support, employment opportunities, study opp
 * [Space Ontologist](https://purl.org/space-ontology)
 * [Ontology bio](https://ontologforum.org/index.php/RobertRovetto)
 
-## Relevant works 
-- [Conceptual/semantic/ontology modeling for space](https://purl.org/space-ontology)
+## Relevant works & Content
+- "The OPEN Government Data Act makes Data.gov a requirement in statute, rather than a policy. It requires federal agencies to publish their information online as open data, using standardized, machine-readable data formats, with their metadata included in the Data.gov catalog. [...] Data.gov is working with an expanded group of federal agencies to include their datasets in Data.gov as they implement the law. [...] Data.gov is the federal government's open data site, and aims to make government more open and accountable." (source: https://data.gov/open-gov/ 24 May 2023)
+- "Data.gov was built with open source software"
+- [Central Federal Catalog website](https://catalog.data.gov/dataset)
 
 ## Warranty 
 No warranty. No liability. All content, work and products are subject to revision. No claims to completeness.  
